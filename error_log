@@ -1,0 +1,6 @@
+[22-May-2018 07:52:52 US/Alaska] PHP Parse error:  syntax error, unexpected '}' in /home/itdealbd/doctorecare.com/pos/themes/default/views/header.php on line 199
+[22-May-2018 07:52:58 US/Alaska] PHP Parse error:  syntax error, unexpected '}' in /home/itdealbd/doctorecare.com/pos/themes/default/views/header.php on line 199
+[22-May-2018 07:53:23 US/Alaska] PHP Parse error:  syntax error, unexpected '}' in /home/itdealbd/doctorecare.com/pos/themes/default/views/header.php on line 199
+[22-May-2018 07:53:53 US/Alaska] PHP Parse error:  syntax error, unexpected '}' in /home/itdealbd/doctorecare.com/pos/themes/default/views/header.php on line 199
+[22-May-2018 12:42:59 US/Alaska] PHP Fatal error:  require_once(): Failed opening required '/home/itdealbd/doctorecare.com/pos/app/third_party/MPDF/mpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/itdealbd/doctorecare.com/pos/app/controllers/Reports.php on line 1263
+[22-May-2018 12:43:05 US/Alaska] PHP Fatal error:  require_once(): Failed opening required '/home/itdealbd/doctorecare.com/pos/app/third_party/MPDF/mpdf.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/itdealbd/doctorecare.com/pos/app/controllers/Reports.php on line 1263
